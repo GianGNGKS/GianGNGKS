@@ -20,7 +20,7 @@
 
 ## 📌 Contact
 
-> [![Linkedin](https://img.shields.io/badge/LinkedIn-%234678c8?style=for-the-badge)](https://linkedin.com/in/gianfranco-gallucci-a4512935a)
+> [![Linkedin](https://img.shields.io/badge/LinkedIn-%234678c8?style=for-the-badge)](https://linkedin.com/in/gianfranco-gallucci)
 > ![Static Badge](https://img.shields.io/badge/Discord-KosoToru-%2340314f?style=for-the-badge)
 
 ## 📌 Tools & Technologies
